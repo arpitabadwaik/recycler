@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recycle Application</string>
+    <string name="address">201, Primrose Building, Kota Road, Kota Road, Kota Road, Pune - 452142</string>
+    <string name="no">CONS142335353533</string>
+    <string name="view_details">VIEW DETAILS</string>
+    <string name="delete">DELETE</string>
+    <string name="bynry">Bynry Technologies</string>
+</resources>
